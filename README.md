@@ -2,7 +2,7 @@
 <html>
 
 <body>
-  <h1>Data Segmentation using Kohonen Algorithm - Documentation</h1>
+  <h1>Data Segmentation using Kohonen Algorithm</h1>
 
   <h2>Introduction</h2>
   <p>
