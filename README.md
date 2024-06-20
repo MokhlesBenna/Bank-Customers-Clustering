@@ -21,8 +21,8 @@
   <ol>
     <li>Clone the repository or download the project files to your local machine.</li>
     <li>Open the project in your preferred Python IDE or text editor.</li>
-    <li>Make sure you have the necessary dataset(s) available for clustering.</li>
-    <li>Modify the code to load and preprocess your dataset(s), including handling missing data if applicable.</li>
+    <li>Make sure you have the necessary dataset available for clustering.</li>
+    <li>Modify the code to load and preprocess your dataset, including handling missing data if applicable.</li>
     <li>Run the code and observe the output for the clustering results.</li>
     <li>Utilize the provided visualization techniques to gain insights into the formed clusters and make informed decisions.</li>
   </ol>
@@ -31,7 +31,7 @@
   <ol>
     <li><strong>Data Preprocessing:</strong>
       <ul>
-        <li>Load the dataset(s) and perform any necessary data cleaning and preprocessing.</li>
+        <li>Load the dataset and perform any necessary data cleaning and preprocessing.</li>
         <li>Handle missing data using appropriate techniques like imputation or removal.</li>
         <li>Scale the data to ensure all features have a similar range.</li>
       </ul>
@@ -62,7 +62,7 @@
 
   <h2>Resources and References</h2>
   <p>
-    We referred to various resources and references during the project implementation to understand and apply the Kohonen algorithm. These include online tutorials, videos (e.g., YouTube), and relevant documentation. By leveraging these resources, we gained a deeper understanding of the algorithm and its implementation details.
+    We used various resources and references during the project implementation to understand and apply the Kohonen algorithm. These include online tutorials, videos (e.g., YouTube), and relevant documentation. By leveraging these resources, we better understood the algorithm and its implementation details.
   </p>
 
   <h2>Conclusion</h2>
